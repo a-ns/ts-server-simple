@@ -1,0 +1,16 @@
+{
+  "name": "ts-exe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alex Lindemann <exmann94@gmail.com> (http://github.com/a-ns)",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^6.1.0",
+    "typescript": "^2.9.1"
+  }
+}
