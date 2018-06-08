@@ -1,2 +1,2 @@
 require("ts-node/register/transpile-only");
-require("./app.ts");
+require("./src/app.ts");
